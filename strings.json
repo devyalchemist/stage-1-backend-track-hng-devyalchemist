@@ -1,0 +1,148 @@
+[
+	{
+		"id": "3a7bd3e2360a3d29eea436fcfb7e44c735d117c42d1c1835420b6b9942dd4f1b",
+		"value": "apple",
+		"properties": {
+			"length": 5,
+			"is_palindrome": false,
+			"unique_characters": 4,
+			"word_count": 1,
+			"sha256_hash": "3a7bd3e2360a3d29eea436fcfb7e44c735d117c42d1c1835420b6b9942dd4f1b",
+			"character_frequency_map": {
+				"a": 1,
+				"p": 2,
+				"l": 1,
+				"e": 1
+			}
+		},
+		"created_at": "2025-10-21T22:09:58.961Z"
+	},
+	{
+		"id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+		"value": "1",
+		"properties": {
+			"length": 1,
+			"is_palindrome": true,
+			"unique_characters": 1,
+			"word_count": 1,
+			"sha256_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+			"character_frequency_map": {
+				"1": 1
+			}
+		},
+		"created_at": "2025-10-21T22:12:03.343Z"
+	},
+	{
+		"id": "129ce50dd90bf244858763d3f10932a9f6d8a521ad4f2c946574e9a566e04054",
+		"value": "race",
+		"properties": {
+			"length": 4,
+			"is_palindrome": false,
+			"unique_characters": 4,
+			"word_count": 1,
+			"sha256_hash": "129ce50dd90bf244858763d3f10932a9f6d8a521ad4f2c946574e9a566e04054",
+			"character_frequency_map": {
+				"r": 1,
+				"a": 1,
+				"c": 1,
+				"e": 1
+			}
+		},
+		"created_at": "2025-10-21T22:19:25.201Z"
+	},
+	{
+		"id": "22751c1cd5d7665cfe5a4e0ff1de1b4714b44cc08880f29a77d7a38af4eab7e7",
+		"value": "race car",
+		"properties": {
+			"length": 8,
+			"is_palindrome": false,
+			"unique_characters": 5,
+			"word_count": 2,
+			"sha256_hash": "22751c1cd5d7665cfe5a4e0ff1de1b4714b44cc08880f29a77d7a38af4eab7e7",
+			"character_frequency_map": {
+				"r": 2,
+				"a": 2,
+				"c": 2,
+				"e": 1
+			}
+		},
+		"created_at": "2025-10-21T22:20:12.386Z"
+	},
+	{
+		"id": "023d2015b02aaee2af514a669875a348774faec3785f432e70a9c396241959cf",
+		"value": "race car and",
+		"properties": {
+			"length": 12,
+			"is_palindrome": false,
+			"unique_characters": 7,
+			"word_count": 3,
+			"sha256_hash": "023d2015b02aaee2af514a669875a348774faec3785f432e70a9c396241959cf",
+			"character_frequency_map": {
+				"r": 2,
+				"a": 3,
+				"c": 2,
+				"e": 1,
+				"n": 1,
+				"d": 1
+			}
+		},
+		"created_at": "2025-10-21T22:20:32.842Z"
+	},
+	{
+		"id": "66afa325cc1ffe709be456a9ed50be729bf0972fa359f00a676a8acf408ed726",
+		"value": "race car and van",
+		"properties": {
+			"length": 16,
+			"is_palindrome": false,
+			"unique_characters": 8,
+			"word_count": 4,
+			"sha256_hash": "66afa325cc1ffe709be456a9ed50be729bf0972fa359f00a676a8acf408ed726",
+			"character_frequency_map": {
+				"r": 2,
+				"a": 4,
+				"c": 2,
+				"e": 1,
+				"n": 2,
+				"d": 1,
+				"v": 1
+			}
+		},
+		"created_at": "2025-10-21T22:21:43.724Z"
+	},
+	{
+		"id": "b3e03dbdf0b9cbc1caf5cc3363fb85449364da196d9e2e6835aed628e4d2792d",
+		"value": "maners",
+		"properties": {
+			"length": 6,
+			"is_palindrome": false,
+			"unique_characters": 6,
+			"word_count": 1,
+			"sha256_hash": "b3e03dbdf0b9cbc1caf5cc3363fb85449364da196d9e2e6835aed628e4d2792d",
+			"character_frequency_map": {
+				"m": 1,
+				"a": 1,
+				"n": 1,
+				"e": 1,
+				"r": 1,
+				"s": 1
+			}
+		},
+		"created_at": "2025-10-21T22:22:31.379Z"
+	},
+	{
+		"id": "55579b557896d0ce1764c47fed644f9b35f58bad620674af23f356d80ed0c503",
+		"value": "anna",
+		"properties": {
+			"length": 4,
+			"is_palindrome": true,
+			"unique_characters": 2,
+			"word_count": 1,
+			"sha256_hash": "55579b557896d0ce1764c47fed644f9b35f58bad620674af23f356d80ed0c503",
+			"character_frequency_map": {
+				"a": 2,
+				"n": 2
+			}
+		},
+		"created_at": "2025-10-21T22:33:50.621Z"
+	}
+]
